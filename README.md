@@ -6,9 +6,8 @@ Aim: To build predictive models of measuring various measures of a movie' succes
 | **Chosen Dataset:**      | TMDB Movie Dataset from Kaggle|
 | **Date:**                | April 24, 2024 |
 | **Group Number:**        | Group 4 | 
-| | |
-| | |
-| | |
+
+
 | **TEAM MEMBER**          | **CONTRIBUTIONS** |
 | **UMASANKAR MUGUNTHAN**  | Linear Regression, One-hot Encoding, K-Means Clustering, Data-Visualisation & Analysis |
 | **NOOR ASYRAN BIN HAMIDON** | Decision Tree Classification, Random Forest, & Analysis |
